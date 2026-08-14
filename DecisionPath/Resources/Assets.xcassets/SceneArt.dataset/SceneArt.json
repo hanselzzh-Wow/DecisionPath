@@ -1,0 +1,764 @@
+{
+  "camera": {
+    "tilt": 32.0,
+    "yaw": 30.0,
+    "projection": "orthographic",
+    "pixelsPerMeter": 123.5294,
+    "pointsPerMeter": 41.1765,
+    "figureHeightMeters": 1.7
+  },
+  "assets": [
+    {
+      "id": "twr-01",
+      "pack": "cbd",
+      "kind": "写字楼·裙房",
+      "worldHeight": 53.25,
+      "pixelsPerMeter": 19.6338,
+      "anchor": [
+        0.5,
+        0.15546
+      ],
+      "pixelSize": [
+        483,
+        1200
+      ],
+      "shadowWidthFactor": 1.0
+    },
+    {
+      "id": "twr-02",
+      "pack": "cbd",
+      "kind": "写字楼·退台",
+      "worldHeight": 60.5,
+      "pixelsPerMeter": 18.3641,
+      "anchor": [
+        0.5,
+        0.1299
+      ],
+      "pixelSize": [
+        330,
+        1200
+      ],
+      "shadowWidthFactor": 1.0
+    },
+    {
+      "id": "twr-03",
+      "pack": "cbd",
+      "kind": "玻璃塔楼",
+      "worldHeight": 73.2,
+      "pixelsPerMeter": 15.4206,
+      "anchor": [
+        0.5,
+        0.11548
+      ],
+      "pixelSize": [
+        253,
+        1200
+      ],
+      "shadowWidthFactor": 1.0
+    },
+    {
+      "id": "twr-04",
+      "pack": "cbd",
+      "kind": "板式高层",
+      "worldHeight": 52.2,
+      "pixelsPerMeter": 19.5509,
+      "anchor": [
+        0.5,
+        0.15757
+      ],
+      "pixelSize": [
+        567,
+        1200
+      ],
+      "shadowWidthFactor": 1.0
+    },
+    {
+      "id": "twr-05",
+      "pack": "cbd",
+      "kind": "高层·大裙房",
+      "worldHeight": 48.075,
+      "pixelsPerMeter": 21.5552,
+      "anchor": [
+        0.5,
+        0.17125
+      ],
+      "pixelSize": [
+        567,
+        1200
+      ],
+      "shadowWidthFactor": 1.0
+    },
+    {
+      "id": "twr-06",
+      "pack": "cbd",
+      "kind": "双退台塔楼",
+      "worldHeight": 81.5,
+      "pixelsPerMeter": 13.8856,
+      "anchor": [
+        0.5,
+        0.11922
+      ],
+      "pixelSize": [
+        271,
+        1200
+      ],
+      "shadowWidthFactor": 1.0
+    },
+    {
+      "id": "twr-07",
+      "pack": "cbd",
+      "kind": "低层办公",
+      "worldHeight": 29.525,
+      "pixelsPerMeter": 31.5528,
+      "anchor": [
+        0.5,
+        0.22444
+      ],
+      "pixelSize": [
+        890,
+        1200
+      ],
+      "shadowWidthFactor": 1.0
+    },
+    {
+      "id": "twr-08",
+      "pack": "cbd",
+      "kind": "商场盒子",
+      "worldHeight": 22.9,
+      "pixelsPerMeter": 32.3375,
+      "anchor": [
+        0.5,
+        0.27802
+      ],
+      "pixelSize": [
+        1200,
+        1171
+      ],
+      "shadowWidthFactor": 1.0
+    },
+    {
+      "id": "lm-taper",
+      "pack": "cbd",
+      "kind": "收分塔",
+      "worldHeight": 123.0,
+      "pixelsPerMeter": 9.3742,
+      "anchor": [
+        0.5,
+        0.1142
+      ],
+      "pixelSize": [
+        249,
+        1200
+      ],
+      "shadowWidthFactor": 1.0
+    },
+    {
+      "id": "lm-twist",
+      "pack": "cbd",
+      "kind": "扭转塔",
+      "worldHeight": 99.6,
+      "pixelsPerMeter": 11.4538,
+      "anchor": [
+        0.5,
+        0.1231
+      ],
+      "pixelSize": [
+        281,
+        1200
+      ],
+      "shadowWidthFactor": 1.0
+    },
+    {
+      "id": "lm-portal",
+      "pack": "cbd",
+      "kind": "门形塔",
+      "worldHeight": 62.0,
+      "pixelsPerMeter": 15.5576,
+      "anchor": [
+        0.5,
+        0.15917
+      ],
+      "pixelSize": [
+        586,
+        1200
+      ],
+      "shadowWidthFactor": 1.0
+    },
+    {
+      "id": "lm-twin",
+      "pack": "cbd",
+      "kind": "双塔连桥",
+      "worldHeight": 88.8,
+      "pixelsPerMeter": 11.4888,
+      "anchor": [
+        0.5,
+        0.13752
+      ],
+      "pixelSize": [
+        483,
+        1200
+      ],
+      "shadowWidthFactor": 1.0
+    },
+    {
+      "id": "lm-tv",
+      "pack": "cbd",
+      "kind": "电视塔",
+      "worldHeight": 100.0,
+      "pixelsPerMeter": 11.5153,
+      "anchor": [
+        0.5,
+        0.11412
+      ],
+      "pixelSize": [
+        310,
+        1200
+      ],
+      "shadowWidthFactor": 1.0
+    },
+    {
+      "id": "lm-step",
+      "pack": "cbd",
+      "kind": "退台塔",
+      "worldHeight": 103.6,
+      "pixelsPerMeter": 10.5561,
+      "anchor": [
+        0.5,
+        0.12659
+      ],
+      "pixelSize": [
+        322,
+        1200
+      ],
+      "shadowWidthFactor": 1.0
+    },
+    {
+      "id": "city-01",
+      "pack": "oldtown",
+      "kind": "临街商铺·二层",
+      "worldHeight": 8.7,
+      "pixelsPerMeter": 93.9983,
+      "anchor": [
+        0.5,
+        0.27782
+      ],
+      "pixelSize": [
+        1189,
+        1200
+      ],
+      "shadowWidthFactor": 1.0
+    },
+    {
+      "id": "city-02",
+      "pack": "oldtown",
+      "kind": "临街商铺·三层",
+      "worldHeight": 11.8,
+      "pixelsPerMeter": 74.6401,
+      "anchor": [
+        0.5,
+        0.25194
+      ],
+      "pixelSize": [
+        853,
+        1200
+      ],
+      "shadowWidthFactor": 1.0
+    },
+    {
+      "id": "city-03",
+      "pack": "oldtown",
+      "kind": "临街商铺·宽面",
+      "worldHeight": 8.7,
+      "pixelsPerMeter": 69.5614,
+      "anchor": [
+        0.5,
+        0.30476
+      ],
+      "pixelSize": [
+        1200,
+        1010
+      ],
+      "shadowWidthFactor": 1.0
+    },
+    {
+      "id": "city-04",
+      "pack": "oldtown",
+      "kind": "住宅·四层",
+      "worldHeight": 14.9,
+      "pixelsPerMeter": 55.1061,
+      "anchor": [
+        0.5,
+        0.24908
+      ],
+      "pixelSize": [
+        1093,
+        1200
+      ],
+      "shadowWidthFactor": 1.0
+    },
+    {
+      "id": "city-05",
+      "pack": "oldtown",
+      "kind": "住宅·六层板楼",
+      "worldHeight": 21.1,
+      "pixelsPerMeter": 41.2912,
+      "anchor": [
+        0.5021,
+        0.22148
+      ],
+      "pixelSize": [
+        960,
+        1200
+      ],
+      "shadowWidthFactor": 1.0
+    },
+    {
+      "id": "city-06",
+      "pack": "oldtown",
+      "kind": "住宅底商",
+      "worldHeight": 18.0,
+      "pixelsPerMeter": 48.8258,
+      "anchor": [
+        0.5,
+        0.22512
+      ],
+      "pixelSize": [
+        919,
+        1200
+      ],
+      "shadowWidthFactor": 1.0
+    },
+    {
+      "id": "city-07",
+      "pack": "oldtown",
+      "kind": "城中村自建·窄面",
+      "worldHeight": 18.0,
+      "pixelsPerMeter": 53.9626,
+      "anchor": [
+        0.5,
+        0.20069
+      ],
+      "pixelSize": [
+        551,
+        1200
+      ],
+      "shadowWidthFactor": 1.0
+    },
+    {
+      "id": "city-08",
+      "pack": "oldtown",
+      "kind": "城中村自建·窄面",
+      "worldHeight": 14.9,
+      "pixelsPerMeter": 65.187,
+      "anchor": [
+        0.52555,
+        0.19483
+      ],
+      "pixelSize": [
+        652,
+        1200
+      ],
+      "shadowWidthFactor": 1.0
+    },
+    {
+      "id": "city-09",
+      "pack": "oldtown",
+      "kind": "办公楼",
+      "worldHeight": 14.9,
+      "pixelsPerMeter": 56.1072,
+      "anchor": [
+        0.5,
+        0.24442
+      ],
+      "pixelSize": [
+        976,
+        1200
+      ],
+      "shadowWidthFactor": 1.0
+    },
+    {
+      "id": "city-10",
+      "pack": "oldtown",
+      "kind": "塔楼",
+      "worldHeight": 30.4,
+      "pixelsPerMeter": 33.5526,
+      "anchor": [
+        0.5,
+        0.16678
+      ],
+      "pixelSize": [
+        497,
+        1200
+      ],
+      "shadowWidthFactor": 1.0
+    },
+    {
+      "id": "city-11",
+      "pack": "oldtown",
+      "kind": "平房店面",
+      "worldHeight": 3.54,
+      "pixelsPerMeter": 103.7336,
+      "anchor": [
+        0.5,
+        0.33147
+      ],
+      "pixelSize": [
+        1200,
+        936
+      ],
+      "shadowWidthFactor": 1.0
+    },
+    {
+      "id": "city-12",
+      "pack": "oldtown",
+      "kind": "老式多层",
+      "worldHeight": 18.0,
+      "pixelsPerMeter": 48.2694,
+      "anchor": [
+        0.50302,
+        0.22733
+      ],
+      "pixelSize": [
+        999,
+        1200
+      ],
+      "shadowWidthFactor": 1.0
+    },
+    {
+      "id": "city-13",
+      "pack": "oldtown",
+      "kind": "临街商铺·窄",
+      "worldHeight": 8.7,
+      "pixelsPerMeter": 101.3228,
+      "anchor": [
+        0.51785,
+        0.24669
+      ],
+      "pixelSize": [
+        1010,
+        1200
+      ],
+      "shadowWidthFactor": 1.0
+    },
+    {
+      "id": "city-14",
+      "pack": "oldtown",
+      "kind": "住宅·七层",
+      "worldHeight": 24.2,
+      "pixelsPerMeter": 36.3768,
+      "anchor": [
+        0.5021,
+        0.21481
+      ],
+      "pixelSize": [
+        930,
+        1200
+      ],
+      "shadowWidthFactor": 1.0
+    },
+    {
+      "id": "city-15",
+      "pack": "oldtown",
+      "kind": "城中村·六层",
+      "worldHeight": 21.1,
+      "pixelsPerMeter": 47.4809,
+      "anchor": [
+        0.5152,
+        0.1795
+      ],
+      "pixelSize": [
+        556,
+        1200
+      ],
+      "shadowWidthFactor": 1.0
+    },
+    {
+      "id": "city-16",
+      "pack": "oldtown",
+      "kind": "菜场/仓储",
+      "worldHeight": 7.5,
+      "pixelsPerMeter": 46.8802,
+      "anchor": [
+        0.5,
+        0.36562
+      ],
+      "pixelSize": [
+        1200,
+        812
+      ],
+      "shadowWidthFactor": 1.0
+    },
+    {
+      "id": "city-17",
+      "pack": "oldtown",
+      "kind": "老小区·三层",
+      "worldHeight": 11.8,
+      "pixelsPerMeter": 67.8422,
+      "anchor": [
+        0.50205,
+        0.26812
+      ],
+      "pixelSize": [
+        1176,
+        1200
+      ],
+      "shadowWidthFactor": 1.0
+    },
+    {
+      "id": "city-18",
+      "pack": "oldtown",
+      "kind": "底商三层",
+      "worldHeight": 11.8,
+      "pixelsPerMeter": 70.926,
+      "anchor": [
+        0.5,
+        0.26038
+      ],
+      "pixelSize": [
+        1060,
+        1200
+      ],
+      "shadowWidthFactor": 1.0
+    },
+    {
+      "id": "city-19",
+      "pack": "oldtown",
+      "kind": "沿街四层",
+      "worldHeight": 14.9,
+      "pixelsPerMeter": 60.0386,
+      "anchor": [
+        0.50248,
+        0.23254
+      ],
+      "pixelSize": [
+        859,
+        1200
+      ],
+      "shadowWidthFactor": 1.0
+    },
+    {
+      "id": "city-20",
+      "pack": "oldtown",
+      "kind": "住宅·转角",
+      "worldHeight": 18.0,
+      "pixelsPerMeter": 47.7408,
+      "anchor": [
+        0.50289,
+        0.23315
+      ],
+      "pixelSize": [
+        864,
+        1200
+      ],
+      "shadowWidthFactor": 1.0
+    },
+    {
+      "id": "sub-01",
+      "pack": "suburb",
+      "kind": "自建房·露台",
+      "worldHeight": 7.72,
+      "pixelsPerMeter": 66.088,
+      "anchor": [
+        0.62301,
+        0.4171
+      ],
+      "pixelSize": [
+        1117,
+        1200
+      ],
+      "shadowWidthFactor": 1.0
+    },
+    {
+      "id": "sub-02",
+      "pack": "suburb",
+      "kind": "自建房·三层",
+      "worldHeight": 11.02,
+      "pixelsPerMeter": 69.6267,
+      "anchor": [
+        0.5,
+        0.22826
+      ],
+      "pixelSize": [
+        791,
+        1200
+      ],
+      "shadowWidthFactor": 1.0
+    },
+    {
+      "id": "sub-03",
+      "pack": "suburb",
+      "kind": "自建房·坡顶",
+      "worldHeight": 8.85,
+      "pixelsPerMeter": 80.2139,
+      "anchor": [
+        0.5,
+        0.2428
+      ],
+      "pixelSize": [
+        996,
+        1200
+      ],
+      "shadowWidthFactor": 1.0
+    },
+    {
+      "id": "sub-04",
+      "pack": "suburb",
+      "kind": "平房",
+      "worldHeight": 5.7,
+      "pixelsPerMeter": 97.2672,
+      "anchor": [
+        0.5,
+        0.28124
+      ],
+      "pixelSize": [
+        1200,
+        1116
+      ],
+      "shadowWidthFactor": 1.0
+    },
+    {
+      "id": "sub-05",
+      "pack": "suburb",
+      "kind": "平房·带院",
+      "worldHeight": 4.42,
+      "pixelsPerMeter": 84.4645,
+      "anchor": [
+        0.61477,
+        0.45925
+      ],
+      "pixelSize": [
+        1200,
+        1075
+      ],
+      "shadowWidthFactor": 1.0
+    },
+    {
+      "id": "sub-06",
+      "pack": "suburb",
+      "kind": "小仓库",
+      "worldHeight": 7.4,
+      "pixelsPerMeter": 80.3879,
+      "anchor": [
+        0.5,
+        0.27396
+      ],
+      "pixelSize": [
+        1200,
+        1149
+      ],
+      "shadowWidthFactor": 1.0
+    },
+    {
+      "id": "tree-a",
+      "pack": "common",
+      "kind": "tree",
+      "worldHeight": 5.5,
+      "pixelsPerMeter": 123.5294,
+      "anchor": [
+        0.5,
+        0.095
+      ],
+      "pixelSize": [
+        667,
+        850
+      ],
+      "shadowWidthFactor": 0.5
+    },
+    {
+      "id": "tree-b",
+      "pack": "common",
+      "kind": "tree",
+      "worldHeight": 3.2,
+      "pixelsPerMeter": 123.5294,
+      "anchor": [
+        0.5,
+        0.095
+      ],
+      "pixelSize": [
+        388,
+        495
+      ],
+      "shadowWidthFactor": 0.5
+    },
+    {
+      "id": "tree-c",
+      "pack": "common",
+      "kind": "tree",
+      "worldHeight": 7.4,
+      "pixelsPerMeter": 123.5294,
+      "anchor": [
+        0.5,
+        0.095
+      ],
+      "pixelSize": [
+        898,
+        1144
+      ],
+      "shadowWidthFactor": 0.5
+    },
+    {
+      "id": "lamp",
+      "pack": "common",
+      "kind": "prop",
+      "worldHeight": 4.36,
+      "pixelsPerMeter": 123.5294,
+      "anchor": [
+        0.5,
+        0.07707
+      ],
+      "pixelSize": [
+        63,
+        552
+      ],
+      "shadowWidthFactor": 0.12
+    },
+    {
+      "id": "signpost",
+      "pack": "common",
+      "kind": "prop",
+      "worldHeight": 2.182,
+      "pixelsPerMeter": 123.5294,
+      "anchor": [
+        0.49999,
+        0.08438
+      ],
+      "pixelSize": [
+        117,
+        290
+      ],
+      "shadowWidthFactor": 0.3
+    },
+    {
+      "id": "figure",
+      "pack": "common",
+      "kind": "figure",
+      "worldHeight": 1.7,
+      "pixelsPerMeter": 123.5294,
+      "anchor": [
+        0.5,
+        0.13687
+      ],
+      "pixelSize": [
+        77,
+        246
+      ],
+      "shadowWidthFactor": 0.45
+    },
+    {
+      "id": "road-fork",
+      "pack": "common",
+      "kind": "road",
+      "worldHeight": 0.06,
+      "pixelsPerMeter": 7.7926,
+      "anchor": [
+        0.41002,
+        0.56725
+      ],
+      "pixelSize": [
+        1200,
+        488
+      ],
+      "shadowWidthFactor": 1.0
+    }
+  ]
+}

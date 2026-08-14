@@ -1,0 +1,15 @@
+.DS_Store
+build/
+DerivedData/
+*.xcuserstate
+xcuserdata/
+
+# 产品文档暂不公开：PRD 正文与设计稿只在本地
+Docs/
+*.docx
+
+# Blender：保留自己写的程序化生成脚本，
+# 但第三方素材包（quaternius，另有授权）与渲染输出不进仓库
+Blender/vendor/
+Blender/out/
+Blender/__pycache__/
